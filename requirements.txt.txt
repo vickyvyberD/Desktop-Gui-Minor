@@ -1,0 +1,7 @@
+pywingui
+opencv-python
+pillow
+numpy==1.19.0
+tensorflow==1.14.0
+keras==2.3.1
+h5py<3.0.0        #pip install 'h5py<3.0.0'
